@@ -39,13 +39,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/WeatherApp.git
+    git clone https://github.com/omgupta7352/Weather-app.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd WeatherApp
+    cd Weather-app
     ```
 
 3. Install the dependencies:
