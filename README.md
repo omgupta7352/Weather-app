@@ -8,6 +8,7 @@ The WeatherApp project is a web-based application that allows users to check the
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,6 +20,10 @@ The WeatherApp project is a web-based application that allows users to check the
 - Display weather details such as temperature, humidity, and wind speed.
 - Show a 5-day weather forecast.
 - Responsive design for mobile and desktop use.
+
+## Demo
+
+You can try out the Unsplash clone live [here](https://weather-app-omgupta.netlify.app/).
 
 ## Technologies Used
 
